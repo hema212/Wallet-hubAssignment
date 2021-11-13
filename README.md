@@ -2,8 +2,8 @@
 
 # Automation Framework for WalletHub
 
-This Framework is developed to automate a few uses in Assembly Application.
-[Assembly](https://www.joinassembly.com/)
+This Framework is developed to automate a few uses in WalletHub Application.
+[WalletHub](https://wallethub.com/)
 
 ## Technology Stack
 
